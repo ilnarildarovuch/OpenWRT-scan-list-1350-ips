@@ -1,1 +1,1 @@
-This is scanned OpenWRT routers (maybe some bad). 1350 ips
+This is scanned OpenWRT routers (maybe some bad). 1350 ips. Ahh, no, there is about 900
